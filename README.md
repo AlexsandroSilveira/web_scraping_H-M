@@ -1,4 +1,4 @@
-# AP's Jeans - Projeto de Webscraping
+# AP's Jeans - Projeto de Web Scraping
 
 ## 1.Sobre o Projeto
 
